@@ -1384,7 +1384,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #5d73ec;
+  background: #e49a73;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2717,4 +2717,10 @@ header.header {
   .sidebar-active .footer-fixed {
     left: 320px;
   }
+}
+body {
+  background-color: #282828;
+}
+.site-title {
+  font-size: 48px;
 }
